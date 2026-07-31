@@ -22,7 +22,8 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 4. If all boxes are filled without a winner, the game is a draw.
 
 ## Project Preview
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e5e033fd-3638-4c10-a765-9dce9edb14c3" />
+<img width="1895" height="905" alt="image" src="https://github.com/user-attachments/assets/f5433073-504f-42fd-b4c9-8ede56aebc34" />
+
 
 
 ## Author
